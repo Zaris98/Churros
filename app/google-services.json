@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460570754034",
+    "firebase_url": "https://churros-86c71.firebaseio.com",
+    "project_id": "churros-86c71",
+    "storage_bucket": "churros-86c71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460570754034:android:4007832a72d49158",
+        "android_client_info": {
+          "package_name": "com.example.churros2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460570754034-qq4h0qopagd2c66ibo39c8ucmv4g4a9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.churros2",
+            "certificate_hash": "eb09d3a4d6f8bc89a4267b6305831c9f55417103"
+          }
+        },
+        {
+          "client_id": "460570754034-i4de53h0lek0db9gf2ln3fjsms5ngbja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKfHdiyYq62B2JfIjSeY1e-1PxmYAomKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460570754034-i4de53h0lek0db9gf2ln3fjsms5ngbja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

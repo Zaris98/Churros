@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Churros 2</string>
+    <string name="Logo">TODO</string>
+    <string name="login">LOGIN</string>
+    <string name="e_mail">E-MAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="name">Name</string>
+    <string name="title_activity_event">Event</string>
+    <string name="addEventTitle">Create Event</string>
+    <string name="EventTitle">Event</string>
+    <string name="Profiletitle">Profile</string>
+    <string name="UpdateProfileTitle">Update Profile</string>
+    <string name="UpdatePasswordTitle">Update Password</string>
+    <string name="ForgottenPassword">Password Reset</string>
+    <string name="UserGuide">User Guide</string>
+    <string name="google_place_api">AIzaSyAc62F1GtBy3bDOkSpI-baPCH1s0WwTf3c</string>
+
+    <string name="current_date">June, 2016</string>
+    <string name="add_event">ADD CALENDAR EVENT</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="last_date">30</string>
+</resources>
